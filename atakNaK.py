@@ -2,7 +2,7 @@ from ecdsa.numbertheory import inverse_mod
 from ecdsa.ecdsa import generator_secp256k1
 
 # Dane z transakcji
-r1 = int("fbc2b9a148f7c136fd5ab60d9a1317624d90630ccdf1b65562977f370d999841", 16)
+r1 = int("ced8474e7cbb2c9ade8b4a6474c3fa8ea4036718d844f3105dde155a6583a134", 16)
 r2 = int("8ca2698b53fffcf9d064b1ca1313ff08e08e47d3bbb97a4f9d54dd0e3164af9a", 16)
 s1 = int("3f598a19e8e4eefec27af6fb8765132b205f45445d4b3755235d232d6f2ee41c", 16)
 s2 = int("65913d2b007ebedf451e0068b368a33ff0fdb9725370a8cecc34e2e8449f143c", 16)
